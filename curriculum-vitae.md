@@ -10,50 +10,38 @@
 ## スキル
 
 ### 言語
-
-- HTML ([Pug](https://pugjs.org/api/getting-started.html))
-- CSS ([Stylus](http://stylus-lang.com/))
-- JavaScript and Node.js ([LiveScript](http://livescript.net/))
-- PHP
-- MySQL
+- Ruby(Silver 2019年内取得予定)
 
 ### フレームワーク
 
-- Zend Framework
-- CakePHP
-  - [SiTest](https://sitest.jp/)
-- Express
-  - [SiTest](https://sitest.jp/)
-- AngularJS
-  - [SiTest](https://sitest.jp/)
-- Polymer
-- React and Redux
-  - [LoopBGM](http://bgm.sis.jp/)
+- Ruby on Rails
 
-### その他
+### インフラ
 
 - Editor: Vim
 - Docker
-- Vagrant / Ansible
-- Gulp / Browserify
-- TDD / BDD
+- Ansible
+- AWS
+- Infrastructure as Code
+- コンテナ基盤構築運用
+- リソースチューニング
+- CI/CD
 
 ## 強み
 
-- 一気通貫したWebサービスの立ち上げ・運用
-- 綺麗なソースコードを意識したプログラミング(コードレビュー経験あり)
-- 開発環境をコードで表現出来る
-- タイピング速度が速い(typing.ioでWPM55前後)
+- 運用の自動化
+- サービス拡大を想定した基盤のリソース設計構築
+- 業務関連知識のキャッチアップ
 
 ## やったことはないが興味があるもの
 
-- CI / CD
+- サービス開発(コーディング)
 
 ## 職務経歴
 
-### 2017/08 - 2018/05: 株式会社ファイバーゲート
+### 2016/04 - 現在: 株式会社ヘッドウォータース 
 
-職務: アプリケーションエンジニア
+職務: インフラエンジニア
 
 #### [oneTouch Wi-Fi](https://www.one-touchwifi.com/)プロジェクト
 
