@@ -2,10 +2,10 @@
 
 ## 基本情報
 
-- 氏名: 大畠 雅
-- ブログ: [http://romancing.jp](http://romancing.jp)
-- GitHub: [miyabisun](https://github.com/miyabisun)
-- teratail: [miyabi-sun](https://teratail.com/users/miyabi-sun)
+- 氏名: 加藤 春樹(カトウ ハルキ)
+- ブログ: [http://blog.livedoor.jp/harukisan7](http://blog.livedoor.jp/harukisan7)
+- GitHub: [katoharuki](https://github.com/katoharuki)
+- twitter: [@kuromitsu_ka](https://twitter.com/kuromitsu_ka)
 
 ## スキル
 
