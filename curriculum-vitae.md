@@ -52,14 +52,35 @@
 
 #### 客先常�現在)
 
-- 20名の基盤チームにてSRE担当として従事
+- 20名の基盤チームにて、インフラエンジニアとして従事
   - as Codeを用いた基盤のリソース最適化、新規サービスの基盤構築
   - as Codeを用いたDataDog監視メトリクスの構成管理
   - コンテナ基盤の構築運用にて、リソースチューニング
   - SonarQubeを使用した、静的解析基盤の新規導入にともなう基盤設計・構築
   - AWS SES導入に伴う、メールルーティング修繕作業のPM担当
   - メンテナンス作業の自動化
-- 言語: Java,Ruby
-- 環境: AWS,Docker, Ansible,Apache,Nginx,Tomcat,Unicorn,Spring,Redis,PostgreSQL,MySQL
+  - その他、障害対応
+- 言語: Java,Ruby,Go
+- 環境: AWS,Linux,Docker, Ansible,Apache,Nginx,Tomcat,Unicorn,Spring,Redis,PostgreSQL,MySQL
 
-#### 客先常駐 美容院サロン予約サービス 基盤構築運用(2018/08/01〜現在)
+#### 客先常駐 小売企業�2018/07/31)
+
+- 10名の基盤チーム(内、エンジニア2名)にて、インフラエンジニア・プリセールスとして従事
+  - スクリプトを使用したActiveDirectoryの運用自動化
+  - WindowsOSの運用改善に使用するスクリプトの作成
+  - ACL解放
+  - トレンドマイクロ製品のプリセールス
+  - トレンドマイクロ製品の構築・運用
+  - その他、障害対応
+- 言語: Java
+- 環境: Azure,F5,Windows,IIS,Tomcat,SQL Server
+- 運用: Active Directory,DeepSecurity
+
+#### 客先常�2017/12/31)
+
+- 20名の基盤チームにて、インフラエンジニアとして従事
+  - JBossを使用したコンテナ基盤の定期デプロイ、パッチ適用作業
+  - moodleを使用した、社内向けe-ラーニングサービスの構築・運用
+  - メンテナンススクリプトの作�害対応
+- 言語: Java
+- 環境: オンプレミス,Apache,Tomcat,JBoss,PostgreSQL
