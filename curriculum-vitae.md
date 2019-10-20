@@ -10,6 +10,9 @@
 ## スキル
 
 ### 言語
+
+- Bash
+- PowerShell
 - Ruby
 
 ### フレームワーク
@@ -29,7 +32,7 @@
 
 ### 資格
 
-- LPIC2(2019年10月取得)
+- LPIC1(2019年10月取得)
 - LPIC3(年内取得予定)
 - AWS 認定ソリューションアーキテクト(年内取得予定)
 - Ruby Silver(年内取得予定)
@@ -73,8 +76,7 @@
   - トレンドマイクロ製品の構築・運用
   - その他、障害対応
 - 言語: Java
-- 環境: Azure,F5,Windows,IIS,Tomcat,SQL Server
-- 運用: Active Directory,DeepSecurity
+- 環境: Azure,F5,Windows,IIS,Tomcat,SQL Server,Active Directory,DeepSecurity
 
 #### 客先常駐 警備会社システム部門にて、基盤構築運用(2017/03/01〜2017/12/31)
 
