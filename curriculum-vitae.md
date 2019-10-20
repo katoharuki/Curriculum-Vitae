@@ -43,13 +43,17 @@
 
 職務: インフラエンジニア
 
-#### [oneTouch Wi-Fi](https://www.one-touchwifi.com/)プロジェクト
+#### 客先常駐 美容院サロン予約サービス 基盤構築運用(2018/08/01〜現在)
 
-- 新ルータが設定ファイルを取得しにいくゲートウェイサーバ(TCP/UDP)の開発
-  - 新ルータはHTTP通信が出来ずバイトコードにとるやり取りを実現する
-  - 最終的に数万のルータがぶら下がる為、スケールアウトしやすい抗争で開発
-- 言語: Node.js (ES2015)
-- 環境: Docker, WS, Mocha/Chai, Phalcon, MySQL, Redis
+- 20名の基盤チームにてSRE担当として従事
+  - as Codeを用いた基盤のリソース最適化、新規サービスの基盤構築
+  - as Codeを用いたDataDog監視メトリクスの構成管理
+  - コンテナ基盤の構築運用にて、リソースチューニング
+  - SonarQubeを使用した、静的解析基盤の新規導入にともなう基盤設計・構築
+  - AWS SES導入に伴う、メールルーティング修繕作業のPM担当
+  - メンテナンス作業の自動化
+- 言語: Java,Ruby
+- 環境: AWS,Docker, Ansible,Apache,Nginx,Tomcat,Unicorn,Spring,Redis,PostgreSQL,MySQL
 
 ### 2014/07 - 2017/03: 株式会社グラッドキューブ
 
