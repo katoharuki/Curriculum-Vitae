@@ -58,19 +58,18 @@
 - 20名の基盤チームにて、インフラエンジニアとして従事
   - as Codeを用いた基盤のリソース最適化、新規サービスの基盤構築
   - as Codeを用いたDataDog監視メトリクスの構成管理
-  - コンテナ基盤の構築運用にて、リソースチューニング
-  - SonarQubeを使用した、静的解析基盤の新規導入にともなう基盤設計・構築
+  - コンテナ基盤の構築運用とリソースチューニング
+  - SonarQubeを使用した、静的解析基盤の新規導入にともなう基盤設計・構築・運用自動化
   - AWS SES導入に伴う、メールルーティング修繕作業のPM担当
-  - メンテナンス作業の自動化
-  - その他、障害対応
+  - その他、障害対応、メンテナンス作業の自動化
 - 言語: Java,Ruby,Go
-- 環境: AWS,Linux,Docker, Ansible,Apache,Nginx,Tomcat,Unicorn,Spring,Redis,PostgreSQL,MySQL
+- 環境: AWS,GCP,オンプレミス,Linux,Docker,Ansible,Apache,Nginx,Tomcat,Unicorn,Spring,Redis,PostgreSQL,MySQL
 
 #### 客先常駐 小売企業向け基盤構築運用・プリセールス(2018/01/01〜2018/07/31)
 
 - 10名の基盤チーム(内、エンジニア2名)にて、インフラエンジニア・プリセールスとして従事
-  - スクリプトを使用したActiveDirectoryの運用自動化
-  - WindowsOSの運用改善に使用するスクリプトの作成
+  - スクリプトを使用した、ActiveDirectoryサービスの運用改善
+  - スクリプトを使用した、WindowsOSの基盤運用改善
   - ACL解放
   - トレンドマイクロ製品のプリセールス
   - トレンドマイクロ製品の構築・運用
